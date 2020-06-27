@@ -1,0 +1,2 @@
+#!/bin/bash
+for n in $(seq 1 10); do echo "n = $n"; done;
